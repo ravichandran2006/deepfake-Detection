@@ -1,3 +1,3 @@
-# Deepfake Detection Project
+# Deepfake Detection 
 
-This is a project to detect deepfake videos using AI/ML techniques.
+This project is to detect deepfake videos using AI/ML techniques.
